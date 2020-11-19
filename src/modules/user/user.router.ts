@@ -1,7 +1,6 @@
 import { Router } from 'express';
 import { UserController } from './user.controller';
 import { GlobalCheckErrorMiddleWare } from '../../middleware/CheckError';
-import { Utils } from '../../utils/Utils';
 import { UserValidators } from './user.validators';
 
 class UserRouter {
