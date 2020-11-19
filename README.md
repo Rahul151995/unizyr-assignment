@@ -25,6 +25,7 @@ npm run start-dev
 - API REQUEST
 
 ```
+TO GET USER LIST
 local url:localhost:5000/api/unizyr/user/user
 hosted url :https://unizyr.herokuapp.com/api/unizyr/user/user
 Request Type : GET
@@ -49,6 +50,7 @@ Response : [
     }
 ]
 
+TO SIGN UP
 local url:localhost:5000/api/unizyr/user/signup
 hosted url :https://unizyr.herokuapp.com/api/unizyr/user/signup
 Request Type: POST
